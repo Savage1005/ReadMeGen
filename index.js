@@ -1,9 +1,8 @@
-var inquirer = require("inquirer");
-var fs = require("fs");
+const inquirer = require("inquirer");
+const fs = require("fs");
+const generateMarkdown = require("./utils/generateMarkdown.js")
 
-//const questions = 
-
-inquirer.prompt([
+const questions = [
 {"type": "input",
 "message": "What is your Github username?",
 "name":"username",
@@ -37,7 +36,7 @@ inquirer.prompt([
 {
 "type": "input",
 "message": "What command should be run to install dependencies?",
-"name": "dependencies",
+"name": "install",
 },
 {
 "type": "input",
@@ -53,17 +52,19 @@ inquirer.prompt([
 "type": "input",
 "message": "What does the user need to know about contributing to the repo?",
 "name": "contribute",
-},
-])
-.then(function (answers){
-    console.log(answers);
-})
+}];
+
+
+// .then(function (answers){
+//     console.log(answers);
+// })
 
 // function writeToFile(fileName, data) {
-// }
+//  }
 
 // function init() {
+//     inquirer.prompt(questions).then 
 
 // }
 
-// init();
+//  init();
