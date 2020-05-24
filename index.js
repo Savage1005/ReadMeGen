@@ -1,7 +1,9 @@
 var inquirer = require("inquirer");
 var fs = require("fs");
 
-const questions = [
+//const questions = 
+
+inquirer.prompt([
 {"type": "input",
 "message": "What is your Github username?",
 "name":"username",
@@ -29,7 +31,7 @@ const questions = [
 {
 "type": "list",
 "message": "What type of license should your product have?",
-"choices": ["Mit", "Apache 2.0","GPL 3.0", "BSD 3", "None"],
+"choices": ["MIT", "APACHE 2.0","GPL 3.0", "BSD 3", "None"],
 "name":"license",
 },
 {
@@ -52,13 +54,16 @@ const questions = [
 "message": "What does the user need to know about contributing to the repo?",
 "name": "contribute",
 },
-];
+])
+.then(function (answers){
+    console.log(answers);
+})
 
-function writeToFile(fileName, data) {
-}
+// function writeToFile(fileName, data) {
+// }
 
-function init() {
+// function init() {
 
-}
+// }
 
-init();
+// init();
