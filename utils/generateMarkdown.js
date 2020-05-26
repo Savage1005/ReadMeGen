@@ -13,32 +13,32 @@ ${data.description}
 *[Test](#tests)
 *[Questions](#questions)
 
-##Installation
+## Installation
 
 To install necessary dependencies, run the following command:
 ${data.install}
 
-##Usage
+## Usage
 
 ${data.repo}
 
-##License
+## License
 
 ${data.license}
 
-##Contributing
+## Contributing
 
 ${data.contribute}
 
-##Tests
+## Tests
 
 To run a test please type the following command:
 
 ${data.tests}
 
-##Questions
+## Questions
 
-If you have any questions please contact me at ${data.email} or visit my github: ${data.username}
+If you have any questions,contact me at ${data.email} or visit my github: ${data.username}
 
 
 
