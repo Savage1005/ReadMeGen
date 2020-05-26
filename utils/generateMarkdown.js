@@ -22,6 +22,7 @@ ${data.description}
 ## Installation
 
 To install necessary dependencies, run the following command:
+
 ${data.install}
 
 ## Usage

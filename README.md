@@ -4,7 +4,6 @@
 ## Description
 The purpose of this project is to creat a README.md file generator
 
-<iframe src="https://drive.google.com/file/d/180j8gaKx6FTr-41nEHBX5XIyKJLpdgw5/preview" width="640" height="480"></iframe>
 
 ## Table of Contents
 
@@ -23,7 +22,7 @@ The purpose of this project is to creat a README.md file generator
 ## Installation
 
 To install necessary dependencies, run the following command:
-npm-i
+npm -i
 
 ## Usage
 
@@ -46,4 +45,6 @@ npm test
 ## Questions
 
 If you have any questions,contact me at tsavage@gmail.com or visit my github: github.com/Savage1005
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3oMe20M5x9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
