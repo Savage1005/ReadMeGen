@@ -30,7 +30,7 @@ const questions =[
 {
 "type": "list",
 "message": "What type of license should your product have?",
-"choices": ["MIT", "APACHE 2.0","GPL 3.0", "BSD 3", "None"],
+"choices": ["MIT", "APACHE 2.0","GPL", "BSD 3", "None"],
 "name":"license",
 },
 {

@@ -1,8 +1,10 @@
 
 # ReadMeGen
-
+![Badge](https://img.shields.io/badge/LICENSE-MIT-<GREEN>)
 ## Description
-It is a Read Me file generator
+The purpose of this project is to creat a README.md file generator
+
+<iframe src="https://drive.google.com/file/d/180j8gaKx6FTr-41nEHBX5XIyKJLpdgw5/preview" width="640" height="480"></iframe>
 
 ## Table of Contents
 
@@ -21,11 +23,11 @@ It is a Read Me file generator
 ## Installation
 
 To install necessary dependencies, run the following command:
-npm i
+npm-i
 
 ## Usage
 
-it works
+You can fork and clone this repository and use it to generate a README.md file.  Open the terminal and type "node index.js" to run.
 
 ## License
 
@@ -33,17 +35,15 @@ MIT
 
 ## Contributing
 
-nothing
+Contact me
 
 ## Tests
 
 To run a test please type the following command:
 
-node index.js
+npm test
 
 ## Questions
 
-If you have any questions,contact me at tsavage@gmail.com or visit my github: Savage1005
-
-
+If you have any questions,contact me at tsavage@gmail.com or visit my github: github.com/Savage1005
 
