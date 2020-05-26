@@ -1,43 +1,49 @@
 
-# af
+# ReadMeGen
 
 ## Description
-af
+It is a Read Me file generator
 
 ## Table of Contents
+
 *[Installation](#installation)
+
 *[Usage](#usage)
+
 *[License](#license)
+
 *[Contributing](#contributing)
+
 *[Test](#tests)
+
 *[Questions](#questions)
 
-##Installation
+## Installation
 
 To install necessary dependencies, run the following command:
-sdf
+npm i
 
-##Usage
+## Usage
 
-sdf
+it works
 
-##License
+## License
 
 MIT
 
-##Contributing
+## Contributing
 
-sdf
+nothing
 
-##Tests
+## Tests
 
 To run a test please type the following command:
 
-sdf
+node index.js
 
-##Questions
+## Questions
 
-If you have any questions please contact me at tsavage@gmail.com or visit my github: tom
+If you have any questions,contact me at tsavage@gmail.com or visit my github: Savage1005
 
 
 
