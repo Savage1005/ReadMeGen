@@ -4,6 +4,7 @@
 ## Description
 The purpose of this project is to creat a README.md file generator
 
+![](https://j.gifs.com/ROvVGO.gif)
 
 ## Table of Contents
 
@@ -22,6 +23,7 @@ The purpose of this project is to creat a README.md file generator
 ## Installation
 
 To install necessary dependencies, run the following command:
+
 npm -i
 
 ## Usage
@@ -46,5 +48,5 @@ npm test
 
 If you have any questions,contact me at tsavage@gmail.com or visit my github: github.com/Savage1005
 
-![](https://j.gifs.com/ROvVGO.gif)
+
 
