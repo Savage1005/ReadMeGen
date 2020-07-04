@@ -1,10 +1,8 @@
 
-# ReadMeGen
+# Employee Directory
 ![Badge](https://img.shields.io/badge/LICENSE-MIT-<GREEN>)
 ## Description
-The purpose of this project is to creat a README.md file generator
-
-![](https://j.gifs.com/ROvVGO.gif)
+Given a table of random users, when the user loads the page, a table of employees should render.
 
 ## Table of Contents
 
@@ -24,11 +22,11 @@ The purpose of this project is to creat a README.md file generator
 
 To install necessary dependencies, run the following command:
 
-npm -i
+npm i
 
 ## Usage
 
-You can fork and clone this repository and use it to generate a README.md file.  Open the terminal and type "node index.js" to run.
+This App uses react
 
 ## License
 
@@ -36,17 +34,15 @@ MIT
 
 ## Contributing
 
-Contact me
+email me
 
 ## Tests
 
 To run a test please type the following command:
 
-npm test
+none
 
 ## Questions
 
 If you have any questions,contact me at tsavage@gmail.com or visit my github: github.com/Savage1005
-
-
 
